@@ -6,7 +6,7 @@ var username = process.env.username;
 var password = process.env.password;
 var shared_secret = process.env.shared;
 
-var games = [2694490, 222420, 222440, 222940, 70, 20, 50, 10, 60, 40, 130, 30, 80, 280, 240, 320, 220, 235900, 300, 360, 400, 11020, 500, 29900, 550, 113200, 1238820, 49520, 220700, 107410];  // Enter here AppIDs of the needed games
+var games = [438100, 2694490, 1422450, 578080, 270880, 2246340, 2767030, 1846380, 2943650, 250900, 227300, 289070, 553850, 2195250, 550, 306130, 427520, 10, 1446780, 238960, 1778820, 240, 534380, 381210, 1498570, 582010, 222420, 222440, 440, 230410];  // Enter here AppIDs of the needed games
 var status = 1;  // 1 - online, 7 - invisible
 
 
